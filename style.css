@@ -1,3 +1,10 @@
 .heading {
     font-family: Helvetica, Verdana, "Helvetica Now", sans-serif;
+    font-weight: 800;
+    color:rgb(4, 179, 4);
+    background-color: rgb(17, 103, 17);
+}
+
+.list {
+    background-color:rgb(110, 186, 82);
 }
